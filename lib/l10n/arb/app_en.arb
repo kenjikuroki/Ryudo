@@ -1,0 +1,145 @@
+{
+    "@@locale": "en",
+    "appTitle": "Archery Note",
+    "@appTitle": {
+        "description": "The title of the application"
+    },
+    "freePractice": "Free Practice",
+    "competition": "Competition",
+    "recentSessions": "Recent Sessions",
+    "noSessionsRecorded": "No sessions recorded yet.",
+    "startMatch": "Start Match",
+    "newPractice": "New Practice",
+    "sessions": "Sessions",
+    "total": "Total",
+    "hitRate": "Hit Rate",
+    "noRecordsForMode": "No records for this mode",
+    "premiumMemberMessage": "You are a Premium Member!",
+    "arrows": "arrows",
+    "bow": "Bow",
+    "roundStatus": "Round Status",
+    "setTargetRounds": "Set Target Arrows",
+    "rounds": "Rounds",
+    "cancel": "Cancel",
+    "finishSessionTitle": "Finish Session?",
+    "finishSessionContent": "You haven't finished all sets yet. Do you want to end the session now and save your progress?",
+    "finishAndSave": "Finish & Save",
+    "finishPracticeTitle": "Finish Practice?",
+    "finishPracticeContent": "Are you sure you want to finish today's practice and save the results?",
+    "finish": "Finish",
+    "practice": "Practice",
+    "switchModeTitle": "Switch Mode?",
+    "switchModeContent": "Switching modes will reset your current progress. Do you want to continue?",
+    "resetAndSwitch": "Reset & Switch",
+    "resetSessionTitle": "Reset Session?",
+    "resetSessionContent": "This will clear all shots from your current session. This action cannot be undone.",
+    "reset": "Reset",
+    "totalScore": "Total Score",
+    "arrowStatus": "Arrow Status",
+    "undo": "Undo",
+    "targetArrowsReached": "Target arrows per round reached ({count}). Please proceed to the next set.",
+    "@targetArrowsReached": {
+        "placeholders": {
+            "count": {}
+        }
+    },
+    "scoreSheet": "Score Sheet",
+    "endIncompleteTitle": "End Incomplete",
+    "endIncompleteContent": "You haven't reached the target number of shots ({target}) yet (Current: {current}).\nDo you want to proceed to the next set anyway?",
+    "@endIncompleteContent": {
+        "placeholders": {
+            "target": {},
+            "current": {}
+        }
+    },
+    "proceed": "Proceed",
+    "sessionFormat": "Session Format",
+    "totalRounds": "TOTAL ROUNDS",
+    "arrowsPerRound": "ARROWS PER ROUND",
+    "arr": "Arr",
+    "applySettings": "Apply Settings",
+    "resetForNewFormatTitle": "Reset for New Format?",
+    "resetForNewFormatContent": "Changing the session format will reset your current progress. Do you want to continue?",
+    "resetAndApply": "Reset & Apply",
+    "selectDistance": "Select Distance",
+    "chooseDistance": "Choose a standard distance or enter custom.",
+    "custom": "Custom",
+    "customDistance": "Custom Distance",
+    "exampleDistance": "ex: 12m, 10m",
+    "save": "Save",
+    "bowStrength": "Bow Strength",
+    "enterBowStrength": "Enter your bow strength (e.g. 15kg).",
+    "resultAnalysis": "Result Analysis",
+    "shotMapping": "Shot Mapping (All Shots)",
+    "scoreBreakdown": "Score Breakdown",
+    "hit": "Hit",
+    "miss": "Miss",
+    "closeHistory": "Close History",
+    "deleteRecord": "Delete this record",
+    "saveAndFinish": "Save & Finish",
+    "discardData": "Discard Data",
+    "discardSessionTitle": "Discard Session?",
+    "discardSessionContent": "This session will not be saved. Are you sure?",
+    "discard": "Discard",
+    "deleteRecordTitle": "Delete Record?",
+    "deleteRecordContent": "This action cannot be undone. All shots from this session will be permanently deleted.",
+    "delete": "Delete",
+    "goalEnds": "Goal: {count} Ends",
+    "@goalEnds": {
+        "placeholders": {
+            "count": {}
+        }
+    },
+    "roundMode": "Round Mode",
+    "sightWithValue": "Sight: {value}",
+    "@sightWithValue": {
+        "placeholders": {
+            "value": {}
+        }
+    },
+    "shotsCount": "Shots",
+    "noDataAvailable": "No data available.",
+    "highUwa": "High (Uwa)",
+    "lowShita": "Low (Shita)",
+    "leftMae": "Left (Mae)",
+    "rightUshiro": "Right (Ushiro)",
+    "arrowsTending": "Arrows tending {trend}.",
+    "@arrowsTending": {
+        "placeholders": {
+            "trend": {}
+        }
+    },
+    "trendAnd": "{vertical} and {horizontal}",
+    "@trendAnd": {
+        "placeholders": {
+            "vertical": {},
+            "horizontal": {}
+        }
+    },
+    "trendJust": "{vertical}{horizontal}",
+    "@trendJust": {
+        "placeholders": {
+            "vertical": {},
+            "horizontal": {}
+        }
+    },
+    "greatTekichu": "Great center shots (Tekichu)!",
+    "excellentConsistency": "Excellent consistency (Tsume-ai)!",
+    "scatteredHassetsu": "Placement is scattered. Focus on consistent Hassetsu.",
+    "premiumUnlocked": "Premium Features Unlocked!",
+    "purchaseFailed": "Purchase failed or store unavailable. Please check your App Store settings.",
+    "ok": "OK",
+    "premiumAccess": "PREMIUM ACCESS",
+    "premiumBenefitsDescription": "Support Kyudo Note development and unlock the best experience.",
+    "benefitRemoveAds": "Remove all annoying advertisements forever",
+    "benefitPerformance": "Instant loading and faster performance",
+    "benefitFutureFeatures": "Access to all future premium features",
+    "benefitSupport": "Directly support independent app development",
+    "unlockNow": "Unlock Now - One Time",
+    "restorePurchase": "Already purchased? Restore Previous Purchase",
+    "legalInfo": "Legal Information",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "backToFree": "Back to Free Version",
+    "removeAdsAndSupport": "Remove Ads & Support Developer"
+}
